@@ -1,0 +1,97 @@
+body
+{
+  overflow: hidden;
+}
+nav
+{
+  position: absolute;
+  background-color: #35363A;
+  top:150px;
+  left:0%;
+  width:300px;
+  height:830px;
+}
+li
+{
+  display: block;
+  padding: 20px;
+}
+a
+{
+  padding: 0;
+  text-decoration: none;
+  font-family: Arial;
+  font-size: 30px;
+  color: white;
+}
+#banner
+{
+  position: absolute;
+  top:0%;
+  left:0%;
+  width:100%;
+  height:150px;
+  background-image: url('banner.png');
+}
+h1
+{
+  margin: 0;
+  padding: 0;
+  font-family: arial;
+  font-size: 100px;
+  color: white;
+  position: absolute;
+  top: 20px;
+  left: 30px;
+}
+h2
+{
+  margin: 0;
+  padding: 0;
+  font-family: arial;
+  font-size: 100px;
+  color: white;
+  position: absolute;
+  top: 20px;
+  right: 30px;
+}
+iframe
+{
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top:150px;
+  left:300px;
+  border:0;
+  width: 1620px;
+  height: 830px;
+}
+#text
+{
+  width: 100%;
+  height: 100%;
+  text-align: justify;
+}
+st1
+{
+  font-family: Impact;
+  font-size: 45px;
+  line-height: 55px;
+}
+st2
+{
+  font-family: Verdana;
+  font-size: 30px;
+  line-height: 40px;
+  color: #35363A;
+}
+vys
+{
+  font-family: Impact;
+  font-size: 45px;
+  line-height: 10px;
+}
+.tabulka
+{
+  margin: 125px;
+}
